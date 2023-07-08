@@ -1,0 +1,16 @@
+
+<div class="fixed-top">
+
+<nav>
+<label class="logo">OnlineMart</label>
+<ul>
+	<li><a href="">SearchBar</a></li>
+	<li><a href="Home.jsp" class="active">Home</a></li>
+	<li><a href="/coustomer/login">CoustomerLogin</a></li>
+	<li><a href="/merchant/login">MerchantLogin</a></li>
+	<li><a href="/admin/login" class="btn btn-success">AdminLogin</a></li>
+
+</ul>
+
+</nav>
+</div>
